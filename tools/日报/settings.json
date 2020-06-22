@@ -1,0 +1,12 @@
+{
+    "sender": "发送者邮箱",
+    "receiver": "接收者邮箱, 接收者邮箱",
+    "copy_to": "抄送邮箱, 抄送邮箱",
+    "password": "邮件密码",
+    "name": "名字",
+    "subject_template": "【工作日报】XXXX工作日报_{name}_{today}，请查阅，谢谢"
+}
+
+
+
+
